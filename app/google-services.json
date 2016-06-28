@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "165465448563",
+    "firebase_url": "https://firstfirebase-c1321.firebaseio.com",
+    "project_id": "firstfirebase-c1321",
+    "storage_bucket": "firstfirebase-c1321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165465448563:android:02fd8b61d100ab9c",
+        "android_client_info": {
+          "package_name": "com.hitesh.firstfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165465448563-lpnv6eljk8chj1kma1d4dl4vrm7ncoea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAASrTC39MfZQLKAxbVlAOD-4zzOa59Sw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
